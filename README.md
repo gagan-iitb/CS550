@@ -74,7 +74,7 @@ If you don't meet one or more pre-requisites, be prepared to spend more time bef
 |12| Mar 21| __Tierce 2 Exam__||
 |13| Apr 4 | Time Series Data Analysis  ||
 |13| Apr 4| Lab: Interactive Dashboards||
-|14| Apr 11| Matrix Profile Algorithms||
+|14| Apr 11| Streaming Data Algorithms||
 |14| Apr 11| Lab: Time Series Prediction and Clustering  ||
 |14| Apr 11| Case Studies: Weather, Financial Data, Imports/Exports,  ||
 |15| Apr 18| Algorithms for Clustering Data: K-Means, K-Means++, DTW, DBSCAN ||
