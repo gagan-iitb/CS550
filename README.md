@@ -67,7 +67,7 @@ If you don't meet one or more pre-requisites, be prepared to spend more time bef
 |9| Feb 21| Centrality Algorithms, Community Detection Algorithms ||
 |9| Feb 21| Lab: Data Analysis using Neo4J| |
 |10| Feb 28| Text and Graph Embedding Algorithms||
-|10| Feb 28| Lab: Word Cloud, Text Visualization, NLP libraries    |    |
+|10| Feb 28| Lab: Word Cloud, Text Visualization, NLP libraries: NLTK    |    |
 |11| Mar 7| Graph Machine Learning ||
 |11| Mar 7| __Project: Complete a graph data analysis Application__| |
 |12| Mar 12-20|__Mid Sem Break__||
