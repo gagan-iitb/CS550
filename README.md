@@ -4,7 +4,7 @@ Course Page for DS250 (Data Analytics and Visualization) being taught at [IIT Bh
 
 The purpose of this course is to introduce students to various algorithms and techniques for data analysis and visualization. We will emphasize visualization and analysis of complex data sets such as large network data. 
 
-We will cover some very basic topics necessary for handling large data, such as hashing, sorting, graphs, data structures, and databases. We will then move to more advanced data analysis topics: clustering, classification, mining of frequent itemsets, graph mining, visualization
+We will cover the skills necessary for cleaning, modeling and visualizing data by a data-scientist. We will also learn the skills needed for developers designing interactive dashboards and applications.
 
 The project and lab component of this course will equip students with modern software toolkit to develop their own data analysis and interactive visualization applications (web/andrioid) to better appreciate the data science process.
 
