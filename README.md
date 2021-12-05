@@ -10,8 +10,9 @@ Both data-scientists and software developers are good at designing and building 
 # Skills for a data science
 We will cover the skills necessary for cleaning, modeling and visualizing data by a data-scientist. We will also learn the skills needed for developers designing interactive dashboards and applications.
 
-# D3
-D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
+# D3 ([website](https://d3js.org/))
+D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. 
+Check these examples: [Sankey](https://observablehq.com/@d3/sankey), [Cholorpleth](https://observablehq.com/@d3/choropleth), [Hexbin](https://observablehq.com/@d3/hexbin-map),[Fisheye](https://bost.ocks.org/mike/fisheye/), 
 
 # Labs and Projects
 The project and lab component of this course will equip students with modern software toolkit to develop their own data analysis and interactive visualization applications (web/android) to better appreciate the data science process.
@@ -25,7 +26,9 @@ Motivation
 * Data Visualization is critical to help us engage more diverse audience in the process of analytical thinking 
 
 __We are often asked to answer difficult questions from this messy data__
+
 __We may answer questions approximately__
+
 __We have to make decisions (often in real-time)__. 
 
 In this course, we want to learn how that is being done and solve real-life problems that we are interested in.
