@@ -49,25 +49,25 @@ Legend:
  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Labs
 |#| Week| Topics planned in this week | Text Book Reference |
 | --- | ------------| ----------- | -------- |
-|1| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Dec 27 | Introduction to Data Science, Facets of Data, Math Review | |
+|1| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Dec 27 | Introduction to Data Science, Facets of Data, Probability Distributions | |
 |1|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Dec 27 | Lab: Web Development, Intro to D3 | [Tutorials from UBC](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/0_Web_Tutorial) [2](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/1_D3_Tutorial)|
-|2| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 3 | Data Science Process, Data Models: Geometric view and Statistical view,  Data Cleaning, EDA: Value of Visualization, | |
-|2|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 3 | Lab: Intro to Numpy and Pandas | |
-|3| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 10| Visualizing Data, Describing Data, Correlation Metrics||
-|3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 10| Lab: Collect Data, Analyze and Make a chart in D3||
+|2| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 3 | Data Science Process, Data Models: Geometric view and Statistical view,  Data Cleaning, EDA: Value of Visualization, Gaussian Distribution, Conjugate Prior | PRML |
+|2|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 3 | Lab: Intro to Numpy and Pandas, Matplotlib, Seaborn,  | |
+|3| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 10| Visualizing Data, Kernel Density, Describing Data, Correlation Metrics||
+|3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 10| Lab: Collect Data (Webscraping, API), Analyze and Make a chart in D3, Density Plots||
 |3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 10| Case Studies: Predicting malicious URLs, Risk in Bank Loans, Sentiment Analysis, Healthcare Dataset||
 |4| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 17| Distance Measures, ML intro, Learning by Prototypes ||
 |4|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 17| Lab: D3 Data joins and basic interactivity||
-|5| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Jan 24| Learning to classify data: various algorithms ||
+|5| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Jan 24| Learning to classify data: various algorithms, Generative and Discriminative Models,  |PRML|
 |5|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 24| Lab: Connect Python to D3 using Flask||
-|6| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 31| Mathematics of Support Vector Machines, Decision Trees ||
+|6| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 31| Mathematics of Support Vector Machines, Kernel Machines, Decision Trees | PRML|
 |6| Jan 31| __Project: Complete a Basic Data Classification Interactive Application__ ||
 |6| Feb 3| __Tierce 1 Exam__||
 |7| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 7|   Networks: Basic Algorithms: Path Finding||
 |7|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 7| Lab: Visualization of Networks and Trees in D3||
 |8| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 14|  Networks Analysis: Random Walks, Counting Triangles||
 |8|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Lab: Intro to Neo4J||
-|8|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Case Studies: Knowledge Graphs, Product Recommendation ||
+|8|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Case Studies: Knowledge Graphs, Product Recommendation, Graphical Models ||
 |9| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 21|  Centrality Algorithms, Community Detection Algorithms ||
 |9|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 21| Lab: Data Analysis using Neo4J| |
 |10|  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 28| Text and Graph Embedding Algorithms||
