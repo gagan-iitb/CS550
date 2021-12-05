@@ -54,7 +54,16 @@ Pre-requisites
   
 If you don't meet one or more pre-requisites, be prepared to spend more time before or during the course in learning them.
 
+Books
+------
+* IVB: Interactive visualization for the Web, Scott Murray
+* PRML: Pattern Recognition and Machine Learning, Christopher Bishop
+* TDS: Think like a data scientist, Brian Godsey
+* DSC: Data Science from Scratch, Joel Grus
+* GA: Graph Algorithms: Practical Examples in Apache Spark and Neo4J, Mark Needham, Amy Hodler
+
 Detailed Schedule
+-----------------
 Legend:
  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Theory
  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Labs
