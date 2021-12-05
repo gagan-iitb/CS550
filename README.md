@@ -7,7 +7,7 @@ The purpose of this course is to introduce students to various algorithms and te
 # Data Scientist vs. Software Developer (Engineer)
 Both data-scientists and software developers are good at designing and building complex systems with many interconnected parts using different tools and frameworks. In general, software developers design systems consisting of many well-defined components, whereas data scientists work with systems wherein at least one of the components isn’t well defined prior to being built. That component is usually closely involved with data processing or analysis. Data scientists specialize in creating systems that rely on probabilistic statements about data and results. Well known examples of these are Google search engine (“These are probably the most relevant pages”), product recommendations on Amazon.com (“We think you’ll probably like these things”).
 
-# Skills for a data science
+# Skills for a data scientist
 We will cover the skills necessary for cleaning, modeling and visualizing data by a data-scientist. We will also learn the skills needed for developers designing interactive dashboards and applications.
 
 # D3 ([website](https://d3js.org/))
