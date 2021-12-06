@@ -51,7 +51,7 @@ Pre-requisites
   * Probability theory (Conditional, Bayes Rule, Concentration Inequalities, Distributions, Gaussian, Multi-variate) 
   * Basic Data Structures, Algorithms and Asymptotic Analysis (graphs, heaps, lists, dynamic programming)
   * Calculus (Multi-variate)
-* Web Technologies
+* Web Technologies 
   * HTML
   * JS
   * CSS
@@ -74,7 +74,7 @@ Legend:
 |#| Week| Topics planned in this week | Text Book Reference |
 | --- | ------------| ----------- | -------- |
 |1| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Dec 27 | Introduction to Data Science, Facets of Data, Probability Distributions | |
-|1|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Dec 27 | Lab: Web Development, Intro to D3 | [Tutorials from UBC](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/0_Web_Tutorial) [2](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/1_D3_Tutorial)|
+|1|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Dec 27 | Lab: Web Development, Intro to D3: Selections, DOM, Chaining | [W3](https://www.w3schools.com/), [Tutorials from UBC](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/0_Web_Tutorial) [2](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/1_D3_Tutorial)|
 |2| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 3 | Data Science Process, Data Models: Geometric view and Statistical view,  Data Cleaning, EDA: Value of Visualization, Gaussian Distribution, Conjugate Prior | PRML |
 |2|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 3 | Lab: Intro to Numpy and Pandas, Matplotlib, Seaborn,  | |
 |3| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 10| Visualizing Data, Kernel Density, Describing Data, Correlation Metrics||
