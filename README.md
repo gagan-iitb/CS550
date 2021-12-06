@@ -51,6 +51,10 @@ Pre-requisites
   * Probability theory (Conditional, Bayes Rule, Concentration Inequalities, Distributions, Gaussian, Multi-variate) 
   * Basic Data Structures, Algorithms and Asymptotic Analysis (graphs, heaps, lists, dynamic programming)
   * Calculus (Multi-variate)
+* Web Technologies
+  * HTML
+  * JS
+  * CSS
   
 If you don't meet one or more pre-requisites, be prepared to spend more time before or during the course in learning them.
 
