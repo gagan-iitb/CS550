@@ -78,7 +78,7 @@ Legend:
 |2| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 3 | Data Science Process, Data Models: Geometric view and Statistical view,  Data Cleaning, EDA: Value of Visualization, Gaussian Distribution, Conjugate Prior | PRML |
 |2|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 3 | Lab: Intro to Numpy and Pandas, Matplotlib, Seaborn,  | |
 |3| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 10| Visualizing Data, Kernel Density, Describing Data, Correlation Metrics||
-|3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 10| Lab: Collect Data (Webscraping, API), Analyze and Make a chart in D3, Density Plots||
+|3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 10| Lab: Collect Data (Webscraping, API), Analyze and Make a chart in D3, Density Plots|IVB |
 |3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 10| Case Studies: Predicting malicious URLs, Risk in Bank Loans, Sentiment Analysis, Healthcare Dataset||
 |4| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 17| Distance Measures, ML intro, Learning by Prototypes ||
 |4|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 17| Lab: D3 Data joins and basic interactivity||
@@ -87,26 +87,26 @@ Legend:
 |6| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 31| Mathematics of Support Vector Machines, Kernel Machines, Decision Trees | PRML|
 |6| Jan 31| __Project: Complete a Basic Data Classification Interactive Application__ ||
 |6| Feb 3| __Tierce 1 Exam__||
-|7| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 7|   Networks: Basic Algorithms: Path Finding||
-|7|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 7| Lab: Visualization of Networks and Trees in D3||
-|8| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 14|  Networks Analysis: Random Walks, Counting Triangles||
-|8|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Lab: Intro to Neo4J||
+|7| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 7|   Networks: Basic Algorithms: Path Finding|GA Ch 4|
+|7|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 7| Lab: Visualization of Networks and Trees in D3|IVB Ch13|
+|8| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 14|  Networks Analysis: Random Walks, Counting Triangles|GA Ch 4 |
+|8|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Lab: Intro to Neo4J|GA Ch3|
 |8|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Case Studies: Knowledge Graphs, Product Recommendation, Graphical Models ||
-|9| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 21|  Centrality Algorithms, Community Detection Algorithms ||
+|9| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 21|  Centrality Algorithms, Community Detection Algorithms |GA Ch5|
 |9|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 21| Lab: Data Analysis using Neo4J| |
-|10|  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 28| Text and Graph Embedding Algorithms||
+|10|  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 28| Text and Graph Embedding Algorithms|GA Ch6,7|
 |10|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 28| Lab: Word Cloud, Text Visualization, NLP libraries: NLTK    |    |
-|11| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Mar 7|  Graph Machine Learning ||
+|11| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Mar 7|  Graph Machine Learning |GA Ch6,7|
 |11| Mar 7| __Project: Complete a graph data analysis Application__| |
 |12| Mar 12-20|__Mid Sem Break__||
 |12| Mar 21| __Tierce 2 Exam__||
 |13|  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr 4 | Time Series Data Analysis  ||
-|13|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 4| Lab: Interactive Dashboards||
+|13|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 4| Lab: Interactive Dashboards|IVB Ch10|
 |14| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr 11|  Streaming Data Algorithms||
 |14|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 11| Lab: Time Series Prediction and Clustering  ||
 |14|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 11| Case Studies: Weather, Financial Data, Imports/Exports,  ||
 |15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr 18|  Algorithms for Clustering Data: K-Means, K-Means++, DTW, DBSCAN ||
-|15|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 18 | Lab: Geographical Maps  ||
+|15|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 18 | Lab: Geographical Maps  |IVB Ch14|
 |15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr 25|  Dimensionality Reduction Algorithms | |
 |16|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 25| Lab: Visualization of High-Dimensional Data using T-SNE ||
 |17 |Apr 25 |__Major Project: Complete a major data analysis course project__  ||
