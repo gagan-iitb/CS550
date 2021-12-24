@@ -12,7 +12,10 @@ We will cover the skills necessary for cleaning, modeling and visualizing data b
 
 # D3 ([website](https://d3js.org/))
 D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. 
-Check these examples: [Sankey](https://observablehq.com/@d3/sankey), [Cholorpleth](https://observablehq.com/@d3/choropleth), [Hexbin](https://observablehq.com/@d3/hexbin-map),[Fisheye](https://bost.ocks.org/mike/fisheye/), 
+
+To make life easy, we will be using the tutorials and notebook environment provided by [Observable](https://observablehq.com/collection/@d3/learn-d3)
+
+Check these examples: [Sankey](https://observablehq.com/@d3/sankey), [Cholorpleth](https://observablehq.com/@d3/choropleth), [Hexbin](https://observablehq.com/@d3/hexbin-map),[Fisheye](https://bost.ocks.org/mike/fisheye/)
 
 # Labs and Projects
 The project and lab component of this course will equip students with modern software toolkit to develop their own data analysis and interactive visualization applications (web/android) to better appreciate the data science process.
@@ -74,7 +77,7 @@ Legend:
 |#| Week| Topics planned in this week | Text Book Reference |
 | --- | ------------| ----------- | -------- |
 |1| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Dec 27 | Introduction to Data Science, Facets of Data, Probability Distributions | |
-|1|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Dec 27 | Lab: Web Development, Intro to D3: Selections, DOM, Chaining | [W3](https://www.w3schools.com/), [Tutorials from UBC](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/0_Web_Tutorial) [2](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/1_D3_Tutorial)|
+|1|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Dec 27 | Lab: Web Development, Intro to D3: Data, Scales, Shapes | [W3](https://www.w3schools.com/), [Tutorials from UBC](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/0_Web_Tutorial) [2](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/1_D3_Tutorial)|
 |2| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 3 | Data Science Process, Data Models: Geometric view and Statistical view,  Data Cleaning, EDA: Value of Visualization, Gaussian Distribution, Conjugate Prior | PRML |
 |2|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 3 | Lab: Intro to Numpy and Pandas; Intro to Matplotlib, Seaborn, Plotnine,   | https://realpython.com/ggplot-python/ https://altair-viz.github.io/   |
 |3| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 10| Visualizing Data, Kernel Density, Describing Data, Correlation Metrics||
