@@ -69,6 +69,10 @@ Books
 * DSC: Data Science from Scratch, Joel Grus
 * GA: Graph Algorithms: Practical Examples in Apache Spark and Neo4J, Mark Needham, Amy Hodler
 
+Class Materials
+----------------
+Google drive (for IIT Bhilai students): [GDrive](https://drive.google.com/drive/folders/11TT4hnNL50yKA7oP3damPIkM9aBF0rNF)
+
 Detailed Schedule
 -----------------
 Legend:
