@@ -7,3 +7,16 @@
 
 ### Learn Enter, Update & Exit features.
 * [The General Update Pattern of D3.js](https://www.youtube.com/watch?v=IyIAR65G-GQ)
+
+###  Datasets for the fruit grouping example discussed in Lec 1
+
+Fruit Image classification: https://www.kaggle.com/moltean/fruits ; https://github.com/Horea94/Fruit-Images-Dataset
+
+Fruit Rotten Classification: https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification
+
+Fruit Disease Categorization: https://www.ijcaonline.org/archives/volume178/number49/chethan-2019-ijca-919401.pdf
+
+### Statistical Thinking 
+
+https://github.com/AllenDowney/ThinkStats2
+
