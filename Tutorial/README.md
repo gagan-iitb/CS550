@@ -1,4 +1,4 @@
-# These are the tutorial files for Data Visualization using D3.js
+# These are a compilation of useful resources for the course
 
 ### Youtube videos to learn implementation of D3.js
 * Part - 1: [D3.js - A Practical Introduction](https://www.youtube.com/watch?v=TOJ9yjvlapY)
@@ -19,4 +19,11 @@ Fruit Disease Categorization: https://www.ijcaonline.org/archives/volume178/numb
 ### Statistical Thinking 
 
 https://github.com/AllenDowney/ThinkStats2
+
+
+### Excellent Guide on Data Visualization by Duke University Library
+https://guides.library.duke.edu/c.php?g=289678&p=1930713
+
+### Selection of Data Viz tools
+http://selection.datavisualization.ch/
 
