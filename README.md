@@ -51,19 +51,19 @@ Books
 
 Class Materials
 ----------------
-Google Drive Link:
-Canvas Link:
-CheatSheet: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
-Example Projects: https://cs229.stanford.edu/proj2021spr/
+* Google Drive Link:
+* Canvas Link:
+* CheatSheet: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
+* Example Projects: https://cs229.stanford.edu/proj2021spr/
 
 Similar Courses
 ----------------
-Stanford CS229: https://cs229.stanford.edu/syllabus-fall2021.html
-Harvard CS181: https://harvard-ml-courses.github.io/cs181-web/schedule
-MIT 6.036 : https://canvas.mit.edu/courses/7509
-IIT Delhi COL341: https://www.cse.iitd.ernet.in/~rahulgarg/Teaching/COL341.htm
-UW CSE446: https://courses.cs.washington.edu/courses/cse446/22wi/
-UCB CS189: https://people.eecs.berkeley.edu/~jrs/189/
+* Stanford CS229: https://cs229.stanford.edu/syllabus-fall2021.html
+* Harvard CS181: https://harvard-ml-courses.github.io/cs181-web/schedule
+* MIT 6.036 : https://canvas.mit.edu/courses/7509
+* IIT Delhi COL341: https://www.cse.iitd.ernet.in/~rahulgarg/Teaching/COL341.htm
+* UW CSE446: https://courses.cs.washington.edu/courses/cse446/22wi/
+* UCB CS189: https://people.eecs.berkeley.edu/~jrs/189/
 
 Detailed Schedule
 -----------------
