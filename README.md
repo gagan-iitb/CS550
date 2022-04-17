@@ -61,19 +61,19 @@ Legend:
  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Labs
 |#| Week| Topics planned in this week | Text Book Reference |
 | --- | ------------| ----------- | -------- |
-|1| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Jul 29 | The Machine Learning Landscape: Applications, Types, challenges, |HML Ch1  |
+|1| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Jul 29 | The Machine Learning Landscape: Applications, Types, challenges; Linear Regression |HML Ch1  |
 |1|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jul 29 | End to End Approach | HML Ch 2 |
-|2| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Aug 1 | Classification | PRML Ch1, MML Ch 6 |
-|2|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 1 |  Regression Models, GLM | https://realpython.com/ggplot-python/ https://altair-viz.github.io/   |
+|2| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Aug 1 | Classification and Logistic Regression | PRML Ch1, MML Ch 6 |
+|2|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 1 | Regression Models, GLM | https://realpython.com/ggplot-python/ https://altair-viz.github.io/   |
 |3| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Aug 8|Kernels, SVM  ||
 |3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 8| |IVB |
-|3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 15|Decision Trees ||
+|3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 15|Decision Trees, Random Forests ||
 |4| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Aug 15|  ||
-|4|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 22|Ensemble Learning ||
+|4|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 22|Ensemble Learning; Bagging, Boosting; Generative Models ||
 |5| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Aug 22| |PRML|
 |5|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 29|Dimensionality Reduction, EM, Factor Analysis ||
 |6| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Aug 29|  | PRML|
-|6| Sep 2| __Project: Complete a Basic Data Classification Interactive Application__ ||
+|6| Sep 2| __Project:Build an ensemble of models__ ||
 |6| Sep 7| __Tierce 1 Exam__||
 |7| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Sep 12| Neural Networks |GA Ch 4|
 |7|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Sep 12| |IVB Ch13|
@@ -83,18 +83,18 @@ Legend:
 |9| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Sep 26|   |GA Ch5|
 |9|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Oct 10 |Autoencoders, GAN | |
 |10|  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Oct 10||GA Ch6,7|
-|10|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Oct 17|   |    |
+|10|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Oct 17| Learning Theory  |    |
 |11| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Oct 17|  |GA Ch6,7|
-|11| | __Project: Complete a graph data analysis Application__| |
+|11| | __Project: Applications/Paper with code__| |
 |12| Oct 1 -Oct9|__Mid Sem Break__||
 |12| Oct 21| __Tierce 2 Exam__||
 |13|  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Oct 27 |Reinforcement Learning ||
 |13|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Oct 27| |IVB Ch10|
-|14| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Nov 4| ||
+|14| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Nov 4|Basic concepts in RL, value iteration, policy iteration. ||
 |14|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Nov 4|  ||
-|14|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Nov 11|  ||
-|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Nov 18|  ||
+|14|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Nov 11|Model-based RL, value function approximator.  ||
+|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Nov 18| Fairness, algorithmic bias, explainability, privacy ||
 |15|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Nov 18 |   |IVB Ch14|
-|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Nov 25|   | |
+|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Nov 25| Fairness, algorithmic bias, explainability, privacy  | |
 |16|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Nov 25|  ||
-|17 |Nov 25 |__Major Project: Complete a major data analysis course project__  ||
+|17 |Nov 25 |__Project: Reinforcement learning Application__  ||
