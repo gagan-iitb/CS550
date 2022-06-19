@@ -41,13 +41,17 @@ Note: For each programming assignment, you will be required to use Python. You w
 
 * You must strictly adhere to these pre-requisites! Even if IIT Bhilai's registration system does not prevent you from registering for this course, it is still your responsibility to make sure you have all of these prerequisites before you register.
 
-Books
-------
+Books (Textbook)
+----------------
 * [HML] Hands on Machine Learning Aurélien Géron
+
+Reference Books
+---------------
 * [ML] Machine Learning, Tom Mitchell.
 * [CML] A Course in Machine Learning, Hal Daumé III
 * [MML] Mathematics for Machine Learning, Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
-* [PRML] 
+* [PRML] Pattern recognition and machine learning, Chistopher Bishop
+* [PML] Probabilistic Machine Learning, Kevin Murphy (2nd edition)
 
 Class Materials
 ----------------
@@ -68,44 +72,42 @@ Similar Courses
 Detailed Schedule
 -----------------
 Legend:
- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Theory
- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Labs
 |#| Week| Topics planned in this week | Text Book Reference |
 | --- | ------------| ----------- | -------- |
-|1| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Jul 29 | The Machine Learning Landscape: Applications, Types, challenges; Linear Regression |HML Ch1  |
-|1|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jul 29 | End to End Approach | HML Ch 2 |
-|2| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Aug 1 | Classification and Logistic Regression | PRML Ch1, MML Ch 6 |
-|2|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 1 | Regression Models, GLM | https://realpython.com/ggplot-python/ https://altair-viz.github.io/   |
-|3| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Aug 8|Kernels, SVM  ||
-|3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 8| |IVB |
-|3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 15|Decision Trees, Random Forests ||
-|4| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Aug 15|  ||
-|4|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 22|Ensemble Learning; Bagging, Boosting; Generative Models ||
-|5| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Aug 22| |PRML|
-|5|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aug 29|Dimensionality Reduction, EM, Factor Analysis ||
-|6| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Aug 29|  | PRML|
+|1| Jul 29 | The Machine Learning Landscape: Applications, Types, challenges; Linear Regression |HML Ch1  |
+|1| Jul 29 | End to End Approach | HML Ch 2 |
+|2| Aug 1 | Classification and Logistic Regression | PRML Ch1, MML Ch 6 |
+|2| Aug 1 | Regression Models, GLM | https://realpython.com/ggplot-python/ https://altair-viz.github.io/   |
+|3| Aug 8|Kernels, SVM  ||
+|3| Aug 8| |IVB |
+|3| Aug 15|Decision Trees, Random Forests ||
+|4| Aug 15|  ||
+|4| Aug 22|Ensemble Learning; Bagging, Boosting; Generative Models ||
+|5| Aug 22| |PRML|
+|5| Aug 29|Dimensionality Reduction, EM, Factor Analysis ||
+|6| Aug 29|  | PRML|
 |6| Sep 2| __Project:Build an ensemble of models__ ||
 |6| Sep 7| __Tierce 1 Exam__||
-|7| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Sep 12| Neural Networks |GA Ch 4|
-|7|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Sep 12| |IVB Ch13|
-|8| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Sep 19| CNN |GA Ch 4 |
-|8|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Sep 19| |GA Ch3|
-|8|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Sep 26|RNN, Attention Models  ||
-|9| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Sep 26|   |GA Ch5|
-|9|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Oct 10 |Autoencoders, GAN | |
-|10|  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Oct 10||GA Ch6,7|
-|10|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Oct 17| Learning Theory  |    |
-|11| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Oct 17|  |GA Ch6,7|
+|7| Sep 12| Neural Networks |GA Ch 4|
+|7| Sep 12| |IVB Ch13|
+|8| Sep 19| CNN |GA Ch 4 |
+|8| Sep 19| |GA Ch3|
+|8| Sep 26|RNN, Attention Models  ||
+|9| Sep 26|   |GA Ch5|
+|9| Oct 10 |Autoencoders, GAN | |
+|10| Oct 10||GA Ch6,7|
+|10| Oct 17| Learning Theory  |    |
+|11| Oct 17|  |GA Ch6,7|
 |11| | __Project: Applications/Paper with code__| |
 |12| Oct 1 -Oct9|__Mid Sem Break__||
 |12| Oct 21| __Tierce 2 Exam__||
-|13|  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Oct 27 |Reinforcement Learning ||
-|13|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Oct 27| |IVB Ch10|
-|14| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Nov 4|Basic concepts in RL, value iteration, policy iteration. ||
-|14|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Nov 4|  ||
-|14|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Nov 11|Model-based RL, value function approximator.  ||
-|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Nov 18| Fairness, algorithmic bias, explainability, privacy ||
-|15|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Nov 18 |   |IVB Ch14|
-|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Nov 25| Fairness, algorithmic bias, explainability, privacy  | |
-|16|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Nov 25|  ||
+|13| Oct 27 |Reinforcement Learning ||
+|13| Oct 27| |IVB Ch10|
+|14| Nov 4|Basic concepts in RL, value iteration, policy iteration. ||
+|14| Nov 4|  ||
+|14| Nov 11|Model-based RL, value function approximator.  ||
+|15| Nov 18| Fairness, algorithmic bias, explainability, privacy ||
+|15| Nov 18 |   |IVB Ch14|
+|15| Nov 25| Fairness, algorithmic bias, explainability, privacy  | |
+|16| Nov 25|  ||
 |17 |Nov 25 |__Project: Reinforcement learning Application__  ||
