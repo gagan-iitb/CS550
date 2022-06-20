@@ -44,11 +44,11 @@ Note: For each programming assignment, you will be required to use Python. You w
 Books (Textbook)
 ----------------
 * [HML] Hands on Machine Learning Aurélien Géron
+* [CIML] A Course in Machine Learning, Hal Daumé III
 
 Reference Books
 ---------------
 * [ML] Machine Learning, Tom Mitchell.
-* [CIML] A Course in Machine Learning, Hal Daumé III
 * [MML] Mathematics for Machine Learning, Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
 * [PRML] Pattern recognition and machine learning, Chistopher Bishop
 * [PML] Probabilistic Machine Learning, Kevin Murphy (2nd edition)
@@ -76,18 +76,20 @@ Legend:
 | --- | ------------| ----------- | -------- |
 |1| Jul 29 | The Machine Learning Landscape: Applications, Types, challenges; Linear Regression |HML Ch1, CIML Ch1 |
 |1| Jul 29 | End to End Approach: Data collection and preparation | HML Ch 2 |
+|1| Jul 29 | Tutorial: Math Refresher and Python Libraries| |
 |2| Aug 1 | Limits of Learning| CIML Ch2|
 |2| Aug 1 | Classification: Performance Measures, Multilabel, Multioutput | HML Ch3 |
 |2| Aug 1 | Regression: Linear, Polynomial, Regularization, Logistic | HML Ch4|
 |3| Aug 8 | Geometry and Nearest Neighbors | CIML Ch3|
 |3| Aug 8|  SVM: Hard-margin, Soft-margin, Linear, Non-linear, SVM Regression |HML Ch5|
 |3| Aug 8|  SVM: Kernelized SVM, Online SVM| HML Ch5|
-|3| Aug 15| Decision Trees: Entropy, Regularlization | HML Ch6|
-|4| Aug 15| Ensemble Learning: Bagging, Random Forests |HML Ch7|
-|4| Aug 22| Ensemble Learning: Boosting, AdaBoost, Gradient Boosting |HML Ch7|
-|5| Aug 22| Probabilistic Modeling |CIML Ch9|
-|5| Aug 29| Dimensionality Reduction, EM, Factor Analysis ||
-|6| Aug 29|  | PRML|
+|4| Aug 15| Perceptron, Practical Issues in ML | CIML Ch4, Ch5|
+|4| Aug 15| Decision Trees: Entropy, Regularlization | HML Ch6|
+|5| Aug 22| Ensemble Learning: Bagging, Random Forests |HML Ch7|
+|5| Aug 22| Ensemble Learning: Boosting, AdaBoost, Gradient Boosting |HML Ch7|
+|6| Aug 29| Probabilistic Modeling |CIML Ch9|
+|6| Aug 29| ||
+|6| Aug 29|  ||
 |6| Sep 2| __Project:Build an ensemble of models__ ||
 |6| Sep 7| __Tierce 1 Exam__||
 |7| Sep 12| Neural Networks |GA Ch 4|
