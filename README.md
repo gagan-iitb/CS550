@@ -34,8 +34,10 @@ Students entering the class are expected to have a pre-existing working knowledg
 * Programming experience in a general programming language. Specifically, you need to have written from scratch programs consisting of few hundred lines of code. 
 Note: For each programming assignment, you will be required to use Python. You will be expected to know, or be able to quickly pick up, that programming language.
 
-* Basic familiarity with probability and statistics: (Conditional probability, Bayes Rule, Random variable, Expectation, Variance, Concentration Inequalities, Distributions, Gaussian, Multi-variate)
-* Linear Algebra: Matrix multiplication, Eigenvector
+* Basic familiarity with probability and statistics: (Conditional probability, Bayes Rule, Random variable, independence, conditional independence, Expectation, Variance, Concentration Inequalities, Distributions, Gaussian, Multi-variate)
+  
+* Linear Algebra: Vectors and matrices, inner product, projection, Basis, (complete, orthonormal), Orthogonality, linear (in)dependence
+eigenvalues and eigenvectors; singular values and vectors; SVD
 
 * Discrete mathematics: (Proofs, Induction, Logic, Combinatorics, Graphs)
 
@@ -72,12 +74,12 @@ Similar Courses
 Detailed Schedule
 -----------------
 Legend:
-|#| Week| Topics planned in this week | Text Book Reference |
-| --- | ------------| ----------- | -------- |
-|1| Jul 29 | Tutorial 1: Linear Algebra and Python Libraries| MML Ch2-4  |
-|2| Aug 1 | The Machine Learning Landscape: Applications, Types, challenges |HML Ch1, CIML Ch1 |
-|2| Aug 1 | End to End Approach: Data collection and preparation | HML Ch 2 |
-|2| Aug 1 | Tutorial 2: Vector Calculus | MML Ch 5  |
+|#| Week| Topics planned in this week | Text Book Reference | Reading| Notebooks|
+| --- | ------------| ----------- | -------- |-------------|--------------------|
+|1| Jul 29 | Tutorial 1: Linear Algebra and Python Libraries| MML Ch2-4  | | Linear Algebra[[https://github.com/ageron/handson-ml/blob/master/math_linear_algebra.ipynb](https://github.com/ageron/handson-ml2/blob/master/math_linear_algebra.ipynb)]|
+|2| Aug 1 | The Machine Learning Landscape: Applications, Types, challenges |HML Ch1, CIML Ch1 | | |
+|2| Aug 1 | End to End Approach: Data collection and preparation | HML Ch 2 | Data Carpentry [https://mimno.infosci.cornell.edu/b/articles/carpentry/]| |
+|2| Aug 1 | Tutorial 2: Vector Calculus | MML Ch 5  | | Calculus[https://github.com/ageron/handson-ml/blob/master/math_differential_calculus.ipynb]|
 |3| Aug 8 | Limits of Learning| CIML Ch2|
 |3| Aug 8 | Classification: Performance Measures, Multilabel, Multioutput | HML Ch3 |
 |3| Aug 8 | Regression: Linear, Polynomial, Regularization, Logistic | HML Ch4|
@@ -85,7 +87,7 @@ Legend:
 |4| Aug 15| Geometry and Nearest Neighbors | CIML Ch3|
 |4| Aug 15| Perceptron, Practical Issues in ML | CIML Ch4, Ch5|
 |4| Aug 15| SVM: Hard-margin, Soft-margin, Linear, Non-linear, SVM Regression |HML Ch5|
-|4| Aug 15| Tutorial 4: Probability and Distributions | MML Ch 6|
+|4| Aug 15| Tutorial 4: Probability and Distributions | MML Ch 6|Probability[https://alliance.seas.upenn.edu/~cis520/dynamic/2021/wiki/index.php?n=Lectures.ProbabilityReview]| |
 |5| Aug 22| SVM: Kernelized SVM, Online SVM| HML Ch5|
 |5| Aug 22| Decision Trees: Entropy, Regularlization | HML Ch6|
 |5| Aug 22| Tutorial 5: TensorFlow/PyTorch | | 
