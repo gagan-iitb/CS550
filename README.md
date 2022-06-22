@@ -76,7 +76,7 @@ Detailed Schedule
 Legend:
 |#| Week| Topics planned in this week | Text Book Reference | Reading| Notebooks|
 | --- | ------------| ----------- | -------- |-------------|--------------------|
-|1| Jul 29 | Tutorial 1: Linear Algebra and Python Libraries| MML Ch2-4  | | [Linear Algebra](https://github.com/ageron/handson-ml/blob/master/math_linear_algebra.ipynb](https://github.com/ageron/handson-ml2/blob/master/math_linear_algebra.ipynb)|
+|1| Jul 29 | Tutorial 1: Linear Algebra and Python Libraries| MML Ch2-4  | | [Linear Algebra](https://github.com/ageron/handson-ml/blob/master/math_linear_algebra.ipynb); [numpy](https://github.com/ageron/handson-ml/blob/master/tools_numpy.ipynb); [pandas](https://github.com/ageron/handson-ml/blob/master/tools_pandas.ipynb)|
 |2| Aug 1 | The Machine Learning Landscape: Applications, Types, challenges |HML Ch1, CIML Ch1 | | |
 |2| Aug 1 | End to End Approach: Data collection and preparation | HML Ch 2 | [Data Carpentry](https://mimno.infosci.cornell.edu/b/articles/carpentry)| |
 |2| Aug 1 | Tutorial 2: Vector Calculus | MML Ch 5  | | [Calculus](https://github.com/ageron/handson-ml/blob/master/math_differential_calculus.ipynb)|
@@ -87,7 +87,7 @@ Legend:
 |4| Aug 15| Geometry and Nearest Neighbors | CIML Ch3|
 |4| Aug 15| Perceptron, Practical Issues in ML | CIML Ch4, Ch5|
 |4| Aug 15| SVM: Hard-margin, Soft-margin, Linear, Non-linear, SVM Regression |HML Ch5|
-|4| Aug 15| Tutorial 4: Probability and Distributions | MML Ch 6|[Probability}(https://alliance.seas.upenn.edu/~cis520/dynamic/2021/wiki/index.php?n=Lectures.ProbabilityReview)| |
+|4| Aug 15| Tutorial 4: Probability and Distributions | MML Ch 6|[Probability](https://alliance.seas.upenn.edu/~cis520/dynamic/2021/wiki/index.php?n=Lectures.ProbabilityReview)| |
 |5| Aug 22| SVM: Kernelized SVM, Online SVM| HML Ch5|
 |5| Aug 22| Decision Trees: Entropy, Regularlization | HML Ch6|
 |5| Aug 22| Tutorial 5: TensorFlow/PyTorch | | 
@@ -119,3 +119,16 @@ Legend:
 |15| Nov 25| Fairness, algorithmic bias, explainability, privacy  | |
 |16| Nov 25|  ||
 |17 |Nov 25 |__Project: Reinforcement learning Application__  ||
+
+--------------------------
+Resources
+----------------
+[Linear Algebra Notes from Stanford](https://see.stanford.edu/materials/aimlcs229/cs229-linalg.pdf) - short
+[3blue1brown](https://www.3blue1brown.com/topics/linear-algebra) -beautiful animated explanations
+[Linear Algebra Notes](https://web.mit.edu/~jadbabai/www/ESE504/linalg.pdf)
+[The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) - It won't teach you linear algebra, but this free desktop reference on matrices may come in handy.
+[Probability Notes from Stanford](https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf) - short
+[Review of probability](http://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf) from a course by David Blei at Princeton
+Andrew Moore's [Probability tutorial slides](http://www.autonlab.org/tutorials/prob.html) (somewhat incomplete)
+Another probability [review]('http://www.ics.uci.edu/~smyth/courses/cs274/notes/notes1.pdf), from UCI
+
