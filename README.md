@@ -82,8 +82,7 @@ Legend:
 |2| Aug 1 | Tutorial 2: Vector Calculus | MML Ch 5  | | [Calculus](https://github.com/ageron/handson-ml/blob/master/math_differential_calculus.ipynb)|
 |3| Aug 8 | Limits of Learning| CIML Ch2|
 |3| Aug 8 | Classification: Performance Measures, Multilabel, Multioutput | HML Ch3 |
-|3| Aug 8 | Regression: Linear, Polynomial, Regularization, Logistic | HML Ch4|[Demo1](https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Line-of-Best-Fit/)[Demo2](https://arachnoid.com/polysolve/)[UnderFitOverFit](https://medium.com/greyatom/what-is-underfitting-andoverfitting-
-in-machine-learning-and-how-to-deal-with-it-6803a989c76) ||
+|3| Aug 8 | Regression: Linear, Polynomial, Regularization, Logistic | HML Ch4|[Demo1](https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Line-of-Best-Fit/)[Demo2](https://arachnoid.com/polysolve/),[UnderFitOverFit](https://medium.com/greyatom/what-is-underfitting-andoverfitting-in-machine-learning-and-how-to-deal-with-it-6803a989c76) ||
 |3| Aug 8 | Tutorial 3: Continuous Optimization | MML Ch 7|
 |4| Aug 15| Geometry and Nearest Neighbors | CIML Ch3|
 |4| Aug 15| Perceptron, Practical Issues in ML | CIML Ch4, Ch5|
@@ -115,8 +114,7 @@ in-machine-learning-and-how-to-deal-with-it-6803a989c76) ||
 |14| Nov 4|Basic concepts in RL, value iteration, policy iteration. ||
 |14| Nov 4|  ||
 |14| Nov 11|Model-based RL, value function approximator.  ||
-|15| Nov 18| Fairness, algorithmic bias, explainability, privacy ||[Bias](https://www.theverge.com/2015/7/1/8880363/googleapologizes-
-photos-app-tags-two-black-people-gorillas)|
+|15| Nov 18| Fairness, algorithmic bias, explainability, privacy ||[Bias](https://www.theverge.com/2015/7/1/8880363/googleapologizes-photos-app-tags-two-black-people-gorillas)|
 |15| Nov 18 |   |IVB Ch14|
 |15| Nov 25| Fairness, algorithmic bias, explainability, privacy  | |
 |16| Nov 25|  ||
@@ -134,24 +132,24 @@ Resources
 * [Review of probability](http://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf) from a course by David Blei at Princeton
 * Andrew Moore's [Probability tutorial slides](http://www.autonlab.org/tutorials/prob.html) (somewhat incomplete)
 * Another probability [review]('http://www.ics.uci.edu/~smyth/courses/cs274/notes/notes1.pdf), from UCI
-• http://www.cs.utoronto.ca/~fidler/teaching/2015/slides/CSC411/
-• http://www.cs.cmu.edu/~epxing/Class/10701/lecture.html
-• http://web.cs.ucla.edu/~sriram/courses/cs188.winter-2017/html/index.html
-• https://people.eecs.berkeley.edu/~jrs/189/
-• http://alex.smola.org/teaching/cmu2013-10-701/
-• http://sli.ics.uci.edu/Classes/2015W-273a
+* http://www.cs.utoronto.ca/~fidler/teaching/2015/slides/CSC411/
+* http://www.cs.cmu.edu/~epxing/Class/10701/lecture.html
+* http://web.cs.ucla.edu/~sriram/courses/cs188.winter-2017/html/index.html
+* https://people.eecs.berkeley.edu/~jrs/189/
+* http://alex.smola.org/teaching/cmu2013-10-701/
+* http://sli.ics.uci.edu/Classes/2015W-273a
 
 Datasets
 ----------------------
 We will benefit from other people’s efforts:
-• Google Dataset Search
-• Amazon’s AWS datasets
-• Kaggle datasets
-• Wikipedia’s list
-• UC Irvine Machine Learning Repository
-• Quora.com
-• Reddit
-• Dataportals.org
-• Opendatamonitor.eu
-• Quandl.com
+* Google Dataset Search
+* Amazon’s AWS datasets
+* Kaggle datasets
+* Wikipedia’s list
+* UC Irvine Machine Learning Repository
+* Quora.com
+* Reddit
+* Dataportals.org
+* Opendatamonitor.eu
+* Quandl.com
 
