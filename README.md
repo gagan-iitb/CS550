@@ -2,13 +2,19 @@
 Course Page for CS550 (Machine Learning) to be taught at [IIT Bhilai, India](https://www.iitbhilai.ac.in/index.php) in the Monsoon Semester of 2022.
 <br> Course Instructor: [Dr. Gagan Raj Gupta ](https://www.iitbhilai.ac.in/index.php?pid=gagan)
 
-Motivation and Objectives
--------------------------
-Machine Learning is concerned with computer programs that automatically improve their performance through experience (e.g., programs that learn to recognize human faces, recommend music and movies, and drive autonomous robots). This course covers the theory and practical algorithms for machine learning from a variety of perspectives. 
+**Motivation and Objectives**
+-----------------------------
+Machine Learning is concerned with computer programs that automatically improve their performance through experience (e.g., programs that learn to recognize objects, Anaylze sentiments, recommend music and movies, and drive autonomous robots). This course covers the theory and practical algorithms for machine learning from a variety of perspectives. 
 
-Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control. The course covers theoretical concepts such as inductive bias, the PAC learning framework, Bayesian learning methods, margin-based learning, and Occam’s Razor. 
+Topics include: 
+* Supervised Learning (Regression/Classification), Linear models: Linear Regression, Logistic Regression, Generalized Linear Models, Support Vector Machines, Nonlinearity and Kernel Methods, Multi-class/Structured Outputs, Ranking, 
+* Evaluating Machine Learning algorithms and Model Selection, Ensemble Methods (Boosting, Bagging, Random Forests), Sparse Modeling and Estimation, 
+* Unsupervised Learning, Clustering: K-means/Kernel K-means, Dimensionality Reduction: PCA and kernel PCA, Matrix Factorization and Matrix Completion, 
+* Generative Models (mixture models and latent factor models), 
+* Assorted Topics: learning theory (bias/variance tradeoffs, practical advice); reinforcement learning. 
+* Deep Learning and Feature Representation Learning
 
-The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.
+The course will also discuss recent applications of machine learning, such as to medical imaging, data mining, bioinformatics, text and web data processing.
 
 Programming assignments include hands-on experiments with various learning algorithms. This course is designed to give a graduate-level student a thorough grounding in the methodologies, technologies, mathematics and algorithms currently needed by people who do research in machine learning.
 
@@ -26,6 +32,15 @@ Programming assignments include hands-on experiments with various learning algor
      3. the size and complexity of the search space; 
      4. the computational properties of the algorithm: 
      5. any guarantees (or lack thereof) regarding termination, convergence, correctness, accuracy or generalization power.
+
+Grading Policy
+--------------
+The grading policy has been designed to give as much hands-on practice to students while making sure the fundamentals are strong.
+To manage the academic workload and address personal needs, there are plenty of choices the student can make in taking exams, homeworks or programming assignments.
+* Tierce Exams: 30% [There will be 3 exams, best 2 will be taken]
+* Theory/Conceptual Homeworks: 10% [There will be 4 homeworks, best 2 will be taken]
+* Programming Assignments: 30% [There will be 6 assignments, best 3 will be taken]
+* Major Project: 30% [There will be a choice to do a major project or submit all assignments. Needs instructor's consent]
 
 Pre-requisites
 --------------
