@@ -44,9 +44,25 @@ The grading policy has been designed to give as much hands-on practice to studen
 To manage the academic workload and address personal needs, there are plenty of choices the student can make in taking exams, homeworks or programming assignments.
 * Tierce Exams: 30% [There will be 3 exams, best 2 will be taken]
 * Theory/Conceptual Homeworks: 10% [There will be 4 homeworks, best 2 will be taken]
-* Programming Assignments: 30% [There will be 7 assignments, best 3 will be taken]
-* Major Project: 30% [There will be a choice to do a major project or submit at least 6 assignments. Needs instructor's consent]
+* Programming Assignments: 30% [There will be 7 assignments, best 2 will be taken]
+* Major Project: 30% [There will be a choice to do a major project + 2 assignments or submit at least 4 assignments.] Project will require the instructor's consent which will be given based on performance up to Tierce 1 and originality of the ideas.
 * Class Participation: Upto 5% [This is a bonus system]
+
+
+Groups Policy
+-------------
+* Students are encouraged to discuss homeworks and assignments with each other, but the submissions have to be original. If we find plagiarism, your grade will be reduced to D or F.
+* Assignments will be individual effort only
+* Projects can be done in groups of 2 or 3 with appropriate justification
+
+Late submission policy
+----------------------
+* Every homework and/or assignment will have plenty of time to complete. There will be no late days allowed for any homework/assignment/project deadline.
+
+
+Attendance Policy
+-----------------
+
 
 Pre-requisites
 --------------
