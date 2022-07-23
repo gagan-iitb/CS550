@@ -33,14 +33,20 @@ Programming assignments include hands-on experiments with various learning algor
      4. the computational properties of the algorithm: 
      5. any guarantees (or lack thereof) regarding termination, convergence, correctness, accuracy or generalization power.
 
+Class Timings
+-------------
+Lectures: Friday 11:30 am to 12:50 p.m., Wednesday 8:30 am to 9:50 am
+Tutorial: Monday 5-6:30 p.m.
+
 Grading Policy
 --------------
 The grading policy has been designed to give as much hands-on practice to students while making sure the fundamentals are strong.
 To manage the academic workload and address personal needs, there are plenty of choices the student can make in taking exams, homeworks or programming assignments.
 * Tierce Exams: 30% [There will be 3 exams, best 2 will be taken]
 * Theory/Conceptual Homeworks: 10% [There will be 4 homeworks, best 2 will be taken]
-* Programming Assignments: 30% [There will be 6 assignments, best 3 will be taken]
-* Major Project: 30% [There will be a choice to do a major project or submit all assignments. Needs instructor's consent]
+* Programming Assignments: 30% [There will be 7 assignments, best 3 will be taken]
+* Major Project: 30% [There will be a choice to do a major project or submit at least 6 assignments. Needs instructor's consent]
+* Class Participation: Upto 5% [This is a bonus system]
 
 Pre-requisites
 --------------
