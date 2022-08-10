@@ -118,7 +118,6 @@ Legend:
 |2| Aug 1 | End to End Approach: Data collection and preparation | HML Ch 2 | [Data Carpentry](https://mimno.infosci.cornell.edu/b/articles/carpentry)| |
 |2| Aug 1 | Tutorial 2: Vector Calculus | MML Ch 5  | | [Calculus](https://github.com/ageron/handson-ml/blob/master/math_differential_calculus.ipynb)|
 |3| Aug 8 | Limits of Learning| CIML Ch2|
-|3| Aug 8 | Classification: Performance Measures, Multilabel, Multioutput | HML Ch3 |
 |3| Aug 8 | Regression: Linear, Polynomial, Regularization, Logistic | HML Ch4|[Demo1](https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Line-of-Best-Fit/)[Demo2](https://arachnoid.com/polysolve/),[UnderFitOverFit](https://medium.com/greyatom/what-is-underfitting-andoverfitting-in-machine-learning-and-how-to-deal-with-it-6803a989c76) ||
 |3| Aug 8 | Tutorial 3: Continuous Optimization | MML Ch 7|
 |4| Aug 15| Geometry and Nearest Neighbors | CIML Ch3|
