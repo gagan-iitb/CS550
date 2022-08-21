@@ -1,4 +1,5 @@
-We will be posting the programing assignments on this page. There are 7 homeworks planned.
+We will be posting the programing assignments on this page. There are 7 Programming Assignments planned. Best 4 out of 7 scores will be considered for grading.
+You can also have a look at the Projects Page for ideas on group projects. (max group size = 3)
 
 1. ML pipeline for Regression: Release date: Aug 4,  Due date: Aug 19
 2. Multi-class Classification + Ensemble Models: Release date: Aug 21, Due date: Sep 5
