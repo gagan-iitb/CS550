@@ -4,7 +4,7 @@ Course Page for CS550 (Machine Learning) to be taught at [IIT Bhilai, India](htt
 
 **Motivation and Objectives**
 -----------------------------
-Machine Learning is concerned with computer programs that automatically improve their performance through experience (e.g., programs that learn to recognize objects, Anaylze sentiments, recommend music and movies, and drive autonomous robots). This course covers the theory and practical algorithms for machine learning from a variety of perspectives. 
+Machine Learning is concerned with computer programs that automatically improve their performance through experience (e.g., programs that learn to recognize objects, Analyze sentiments, recommend music and movies, and drive autonomous robots). This course covers the theory and practical algorithms for machine learning from a variety of perspectives. 
 
 Topics include: 
 * Supervised Learning (Regression/Classification), Linear models: Linear Regression, Logistic Regression, Generalized Linear Models, Support Vector Machines, Nonlinearity and Kernel Methods, Multi-class/Structured Outputs, Ranking, 
