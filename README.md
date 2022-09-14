@@ -132,16 +132,16 @@ Legend:
 |7| Aug 29| Probabilistic Modeling |CIML Ch9|
 |6| Sep 2| __Project:Build an ensemble of models__ ||
 |6| Sep 7| __Tierce 1 Exam__||
-|7| Sep 12| Neural Networks |GA Ch 4|
-|7| Sep 12| |IVB Ch13|
-|8| Sep 19| CNN |GA Ch 4 |
-|8| Sep 19| |GA Ch3|
-|8| Sep 26|RNN, Attention Models  ||
-|9| Sep 26|   |GA Ch5|
+|7| Sep 12| Neural Networks Introduction|HoML Ch 10|
+|7| Sep 12| Compute Graph, Auto-diff| HoML Appendix D|
+|8| Sep 19| Batch Normalization, Graident Clipping, Regularization, Optimization Techniques| HoML Ch11 |
+|8| Sep 19| CNNs, Main Archiectures| HoML Ch 14|
+|8| Sep 26| RNN, Attention Models  |HoML Ch 15|
+|9| Sep 26| Forecasting Time Series |HoML Ch 15|
 |9| Oct 10 |Autoencoders, GAN | |
-|10| Oct 10| Generative Models|GA Ch6,7|
+|10| Oct 10| Generative Models||
 |10| Oct 17| Learning Theory  |    |
-|11| Oct 17|  |GA Ch6,7|
+|11| Oct 17|  ||
 |11| | __Project: Applications/Paper with code__| |
 |12| Oct 1 -Oct9|__Mid Sem Break__||
 |12| Oct 21| __Tierce 2 Exam__||
