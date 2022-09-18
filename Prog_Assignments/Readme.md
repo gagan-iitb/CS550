@@ -10,5 +10,8 @@ You can also have a look at the Projects Page for ideas on group projects. (max 
 3. Building your Neural networks : Release date: Sep 12, Due date: Sep 30
 
 4. Mini-Project: Release Date: Sep 17  Due date: Nov 17  --> It's Weightage is that of 2 assignments 
+   Stage 1: Validation of Datasets, Build Data Loader and Transfer Learning based architecture for baseline performance: Oct 10
+   Stage 2: Customizations in architecture (adding attention blocks, customizations) : Oct 30
+   Stage 3: Final tuning, report due : Nov 17
 
 5. Application of Reinforcement Learning: Release date: Nov 5, Due date: Nov 25
