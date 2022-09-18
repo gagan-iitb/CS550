@@ -1,4 +1,4 @@
-We will be posting the programing assignments on this page. There are 7 Programming Assignments planned. Best 4 out of 7 scores will be considered for grading.
+We will be posting the programing assignments on this page. There are 4 + 2 Programming Assignments planned. Best 4 out of 6 scores will be considered for grading.
 You can also have a look at the Projects Page for ideas on group projects. (max group size = 3)
 
 1. ML pipeline for Regression: Release date: Aug 4,  Due date: Aug 19
@@ -7,11 +7,8 @@ You can also have a look at the Projects Page for ideas on group projects. (max 
 * Dataset Part A: https://github.com/sarang-iitb/H-captcha-dataset
 * Dataset Part B: https://github.com/sarang-iitb/Car_Condition_evaluation_dataset
 
-
 3. Building your Neural networks : Release date: Sep 12, Due date: Sep 30
 
-Image Segmentation/Multiple Object detection via CNN: 
+4. Mini-Project: Release Date: Sep 17  Due date: Nov 17  --> It's Weightage is that of 2 assignments 
 
-4. Anomaly Detection/Speech Processing/Text Summarization using RNN or LSTM: Release date: Sep 25, Due date: Oct 15
-5. Dimensionality Reduction: Release date: Oct 10, Due date: Oct 30
-7. Application of Reinforcement Learning: Release date: Nov 15, Due date: Nov 31
+5. Application of Reinforcement Learning: Release date: Nov 5, Due date: Nov 25
