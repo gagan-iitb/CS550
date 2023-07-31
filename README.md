@@ -1,5 +1,5 @@
 # Machine Learning
-Course Page for CS550 (Machine Learning) to be taught at [IIT Bhilai, India](https://www.iitbhilai.ac.in/index.php) in the Monsoon Semester of 2022.
+Course Page for CS550 (Machine Learning) to be taught at [IIT Bhilai, India](https://www.iitbhilai.ac.in/index.php) in the Monsoon Semester of 2023.
 <br> Course Instructor: [Dr. Gagan Raj Gupta ](https://www.iitbhilai.ac.in/index.php?pid=gagan)
 
 **Motivation and Objectives**
@@ -7,26 +7,26 @@ Course Page for CS550 (Machine Learning) to be taught at [IIT Bhilai, India](htt
 Machine Learning is concerned with computer programs that automatically improve their performance through experience (e.g., programs that learn to recognize objects, Analyze sentiments, recommend music and movies, and drive autonomous robots). This course covers the theory and practical algorithms for machine learning from a variety of perspectives. 
 
 Topics include: 
-* Supervised Learning (Regression/Classification), Linear models: Linear Regression, Logistic Regression, Generalized Linear Models, Support Vector Machines, Nonlinearity and Kernel Methods, Multi-class/Structured Outputs, Ranking, 
+* Supervised Learning (Regression/Classification), Linear models: Linear Regression, Logistic Regression, Generalized Linear Models, Support Vector Machines, Nonlinearity and Kernel Methods, Multi-class/Structured Outputs, Ranking/Grading
 * Evaluating Machine Learning algorithms and Model Selection, Ensemble Methods (Boosting, Bagging, Random Forests), Sparse Modeling and Estimation, 
 * Unsupervised Learning, Clustering: K-means/Kernel K-means, Dimensionality Reduction: PCA and kernel PCA, Matrix Factorization and Matrix Completion, 
-* Generative Models (mixture models and latent factor models), 
-* Assorted Topics: learning theory (bias/variance tradeoffs, practical advice); reinforcement learning. 
-* Deep Learning and Feature Representation Learning
+* Generative Models (mixture models and latent factor models), Diffusion models, GAN, (Variational) Autoencoders
+* Assorted Topics: learning theory (bias/variance tradeoffs, practical advice) 
+* Deep Learning and Feature Representation Learning: CNN, RNN, GNN
 
-The course will also discuss recent applications of machine learning, such as to medical imaging, data mining, bioinformatics, text and web data processing.
+The course will also discuss recent machine-learning applications, such as computer vision, medical imaging, time-series mining, bioinformatics, web and industrial data processing.
 
-Programming assignments include hands-on experiments with various learning algorithms. This course is designed to give a graduate-level student a thorough grounding in the methodologies, technologies, mathematics and algorithms currently needed by people who do research in machine learning.
+Programming assignments include hands-on experiments with various learning algorithms. This course is designed to give a graduate-level student a thorough grounding in the methodologies, technologies, mathematics, and algorithms currently needed by people researching machine learning.
 
 **Learning Outcomes**
 ---------------------
 * Implement and analyze existing learning algorithms, including well-studied methods for classification, regression, structured prediction, clustering, and representation learning
-* Integrate multiple facets of practical machine learning in a single system: data preprocessing, learning, regularization and model selection
-* Describe the the formal properties of models and algorithms for learning and explain the practical implications of those results
+* Integrate multiple facets of practical machine learning in a single system: data preprocessing, learning, regularization, and model selection
+* Describe the formal properties of models and algorithms for learning and explain the practical implications of those results
 * Compare and contrast different paradigms for learning (supervised, unsupervised, etc.)
 * Design experiments to evaluate and compare different machine learning techniques on real-world problems
 * Employ probability, statistics, calculus, linear algebra, and optimization in order to develop new predictive models or learning methods
-* Given a description of a ML technique, analyze it to identify 
+* Given a description of an ML technique, analyze it to identify 
      1. the expressive power of the formalism; 
      2. the inductive bias implicit in the algorithm; 
      3. the size and complexity of the search space; 
@@ -35,34 +35,49 @@ Programming assignments include hands-on experiments with various learning algor
 
 Class Timings
 -------------
-Lectures: Friday 11:30 am to 12:50 p.m., Wednesday 8:30 am to 9:50 am
-Tutorial: Monday 5-6:30 p.m.
+Lectures: Wednesday and Friday 11:30 am to 12:20 p.m., Thursday 8:30 am to 9:20 am
+Lab: Tuesday 3:30-5:30 p.m.
 
 Grading Policy
 --------------
 The grading policy has been designed to give as much hands-on practice to students while making sure the fundamentals are strong.
-To manage the academic workload and address personal needs, there are plenty of choices the student can make in taking exams, homeworks or programming assignments.
-* Tierce Exams: 30% [There will be 3 exams, best 2 will be taken]
-* Theory/Conceptual Homeworks: 10% [There will be 4 homeworks, best 2 will be taken]
-* Programming Assignments: 30% [There will be 7 assignments, best 2 will be taken]
-* Major Project: 30% [There will be a choice to do a major project + 2 assignments or submit at least 4 assignments.] Project will require the instructor's consent which will be given based on performance up to Tierce 1 and originality of the ideas.
-* Class Participation: Upto 5% [This is a bonus system]
+* Mid-sem Exam: 25% 
+* Theory/Conceptual Homework: 10% 
+* Programming Assignments: 30% 
+* Major Project: 25% 
+* Surprise Quiz(es):  10%  (5-6 in-class/lab assessments, typically after every segment). No prior intimation will be given.
+
+4 assignments (Scaled up to a total of 600 points) 
+-----------------------------------------------------
+Asg 1: Regression + Classification 
+Concepts: Feature engineering, Train/Val/Test Splits, Hyper-parameter tuning, Understanding of performance metrics, Reporting 
+
+Asg 2: Ensemble Models
+Concepts: Random Forests, Boosting, Mixing Models, 
+
+Asg 3: Image Classification and Segmentation
+Concepts: CNN architectures, Transfer Learning, Model customization, Regularization, Trade-off between model size and accuracy
+
+Asg 4: Generative Models 
+Concepts: Auto-encoders, GAN, Diffusion Models
 
 
 Groups Policy
 -------------
-* Students are encouraged to discuss homeworks and assignments with each other, but the submissions have to be original. If we find plagiarism, your grade will be reduced to D or F.
+* Students are encouraged to discuss homework and assignments with each other, but the submissions have to be original. If we find plagiarism, your grade will be reduced to D or F. 
 * Assignments will be individual effort only
-* Projects can be done in groups of 2 or 3 with appropriate justification
+* Major Project can be done in groups of 2 or 3 with appropriate justification
 
 Late submission policy
 ----------------------
 * Every homework and/or assignment will have plenty of time to complete. There will be no late days allowed for any homework/assignment/project deadline.
-
+* Students are encouraged to make regular submissions to Canvas portal and not wait for the last minute.
+* In exceptional circumstances, the student can seek the instructor's permission for skipping/late submission of an assignment. This will be done MAX one time for any student in the semester.
 
 Attendance Policy
 -----------------
-
+* Students are expected to attend each class and lab session. There will be surprise quizzes and attendance may also be taken.
+* If a student has attendance less than 75% in the lecture component, they will not be allowed to appear for the exam.
 
 Pre-requisites
 --------------
@@ -82,7 +97,7 @@ eigenvalues and eigenvectors; singular values and vectors; SVD
 
 Books (Textbook)
 ----------------
-* [HML] Hands on Machine Learning Aurélien Géron
+* [HML] Hands on Machine Learning Aurélien Géron, 3rd edition.
 * [CIML] A Course in Machine Learning, Hal Daumé III
 * [MML] Mathematics for Machine Learning, Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
 
