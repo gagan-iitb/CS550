@@ -41,10 +41,11 @@ Lab: Tuesday 3:30-5:30 p.m.
 Grading Policy
 --------------
 The grading policy has been designed to give as much hands-on practice to students while making sure the fundamentals are strong.
-* Mid-sem Exam: 25% 
+* Mid-sem Exam: 25%
+* End-sem Exam: 25%
 * Theory/Conceptual Homework: 10% 
-* Programming Assignments: 30% 
-* Major Project: 25% 
+* Programming Assignments: Not Graded 
+* Major Project: 30% 
 * Surprise Quiz(es):  10%  (5-6 in-class/lab assessments, typically after every segment). No prior intimation will be given.
 
 4 assignments (Scaled up to a total of 600 points) 
