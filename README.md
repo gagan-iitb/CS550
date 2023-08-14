@@ -45,27 +45,22 @@ Grading Policy
 The grading policy has been designed to give students as much hands-on practice while ensuring the fundamentals are strong.
 Students who are first to submit PRs for correct solutions to assignments/homework will receive Class Participation credits (bonus)
 * Mid-sem Exam: 25%
-* End-sem Exam: 25%
 * Theory/Conceptual Homework: 10% 
-* Programming Assignments: Not Graded
-* Class Participation: 5% (bonus)
-* Major Project: 30% 
-* Surprise Quiz(es):  10%  (5-6 in-class/lab assessments, typically after every segment). You won't get any prior intimation.
+* Programming Assignments: 30%
+* Major Project: 25% 
+* Surprise Quiz(es):  10%  (5 in-class/lab assessments, typically after every segment). You won't get any prior intimation.
 
-4 assignments (Scaled up to a total of 600 points) 
+3 assignments (Scaled up to a total of 600 points) 
 -----------------------------------------------------
 Asg 1: Regression + Classification 
 Concepts: Feature engineering, Train/Val/Test Splits, Hyper-parameter tuning, Understanding of performance metrics, Reporting 
+Optional Concepts: Random Forests, Boosting, Mixing Models, 
 
-Asg 2: Ensemble Models
-Concepts: Random Forests, Boosting, Mixing Models, 
-
-Asg 3: Image Classification and Segmentation
+Asg 2: Image Classification and Segmentation
 Concepts: CNN architectures, Transfer Learning, Model customization, Regularization, Trade-off between model size and accuracy
 
-Asg 4: Generative Models 
+Asg 3: Generative Models 
 Concepts: Auto-encoders, GAN, Diffusion Models
-
 
 Groups Policy
 -------------
