@@ -38,7 +38,7 @@ Programming assignments include hands-on experiments with various learning algor
 Class Timings
 -------------
 Lectures (Room LHC 202): Wednesday and Friday 11:30 am to 12:20 p.m., Thursday 8:30 am to 9:20 am
-Lab (Room LHC 106): Tuesday 3:30-5:30 p.m.
+<br> Lab (Room LHC 106): Tuesday 3:30-5:30 p.m.
 
 Grading Policy
 --------------
