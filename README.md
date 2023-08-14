@@ -1,6 +1,8 @@
 # Machine Learning
 Course Page for CS550 (Machine Learning) to be taught at [IIT Bhilai, India](https://www.iitbhilai.ac.in/index.php) in the Monsoon Semester of 2023.
 <br> Course Instructor: [Dr. Gagan Raj Gupta ](https://www.iitbhilai.ac.in/index.php?pid=gagan)
+<br> Office Location: ED1 Room 412
+
 
 **Motivation and Objectives**
 -----------------------------
@@ -35,18 +37,20 @@ Programming assignments include hands-on experiments with various learning algor
 
 Class Timings
 -------------
-Lectures: Wednesday and Friday 11:30 am to 12:20 p.m., Thursday 8:30 am to 9:20 am
-Lab: Tuesday 3:30-5:30 p.m.
+Lectures (Room LHC 202): Wednesday and Friday 11:30 am to 12:20 p.m., Thursday 8:30 am to 9:20 am
+Lab (Room LHC 106): Tuesday 3:30-5:30 p.m.
 
 Grading Policy
 --------------
-The grading policy has been designed to give as much hands-on practice to students while making sure the fundamentals are strong.
+The grading policy has been designed to give students as much hands-on practice while ensuring the fundamentals are strong.
+Students who are first to submit PRs for correct solutions to assignments/homework will receive Class Participation credits (bonus)
 * Mid-sem Exam: 25%
 * End-sem Exam: 25%
 * Theory/Conceptual Homework: 10% 
-* Programming Assignments: Not Graded 
+* Programming Assignments: Not Graded
+* Class Participation: 5% (bonus)
 * Major Project: 30% 
-* Surprise Quiz(es):  10%  (5-6 in-class/lab assessments, typically after every segment). No prior intimation will be given.
+* Surprise Quiz(es):  10%  (5-6 in-class/lab assessments, typically after every segment). You won't get any prior intimation.
 
 4 assignments (Scaled up to a total of 600 points) 
 -----------------------------------------------------
