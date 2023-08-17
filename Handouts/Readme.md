@@ -4,9 +4,10 @@ We already have a few interesting animations made by Anirban:
 * Effect of noise on Regression
 * How KNN selects nearest neighbors and why it produces jumps?
 
-Further Reading:
+Further Reading on Regression:
 
 * https://blog.quantinsti.com/linear-regression-assumptions-limitations/
+* https://www.rdatagen.net/post/linear-regression-models-assume-noise-is-independent/
 * https://www.statisticshowto.com/experimental-design/confounding-variable/
 
 
