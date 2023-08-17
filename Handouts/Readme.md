@@ -5,8 +5,8 @@ We already have a few interesting animations made by Anirban:
 * How KNN selects nearest neighbors and why it produces jumps?
 
 Further Reading:
-https://blog.quantinsti.com/linear-regression-assumptions-limitations/
-https://www.statisticshowto.com/experimental-design/confounding-variable/
+* https://blog.quantinsti.com/linear-regression-assumptions-limitations/
+* https://www.statisticshowto.com/experimental-design/confounding-variable/
 
 
 
