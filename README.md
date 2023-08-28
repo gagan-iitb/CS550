@@ -98,14 +98,16 @@ eigenvalues and eigenvectors; singular values and vectors; SVD
 Books (Textbook)
 ----------------
 * [HML] Hands on Machine Learning Aurélien Géron, 3rd edition.
-* [CIML] A Course in Machine Learning, Hal Daumé III
-* [MML] Mathematics for Machine Learning, Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
+* [ISLPy] Introduction to Statistical Learning with applications in Python.
+
 
 Reference Books
 ---------------
 * [ML] Machine Learning, Tom Mitchell.
 * [PRML] Pattern recognition and machine learning, Chistopher Bishop
 * [PML] Probabilistic Machine Learning, Kevin Murphy (2nd edition)
+* [CIML] A Course in Machine Learning, Hal Daumé III
+* [MML] Mathematics for Machine Learning, Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
 
 Class Materials
 ----------------
